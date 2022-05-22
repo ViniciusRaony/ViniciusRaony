@@ -1,7 +1,7 @@
 # Yo I'm Vinícius!
 
 - 🔭 I’m currently studying Systems Analysis and Development at Faculdade Senac Pernambuco
-- 🌱 I’m currently leaning C, Java and SQL
+- 🌱 I’m currently learning C, Java and SQL
 - 👯 I’m looking for opportunities and collabaration in any project for begginers (data science or developer) -> Java / Python
 - ⚡ Fun fact: I already have a degree in Mechatronics Engineering... Moving to an IT career!
 
