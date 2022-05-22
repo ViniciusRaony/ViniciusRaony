@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying Systems Analysis and Development at Faculdade Senac Pernambuco
 - 🌱 I’m currently leaning C, Java and SQL
 - 👯 I’m looking for opportunities and collabaration in any project for begginers (data science or developer) -> Java / Python
-- ⚡ Fun fact: I already have a degree in Mechatronics Engineering... Moving to an IT career \i_
+- ⚡ Fun fact: I already have a degree in Mechatronics Engineering... Moving to an IT career!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viniciusrsb/) 
 
