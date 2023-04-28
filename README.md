@@ -1,7 +1,7 @@
 # Yo I'm Vinícius!
 
 - 🔭 I’m currently studying Systems Analysis and Development at Faculdade Senac Pernambuco.
-- 🌱 I’m currently learning .NET 
+- 🌱 I’m currently focusing on Python (Django).
 - 👯 I’m looking for opportunities and collabaration in any project for begginers as dev.
 - ⚡ Fun fact: I already have a degree in Mechatronics Engineering... Moving to an IT career!
 
